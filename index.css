@@ -1,0 +1,36 @@
+* { 
+    font-family: 'Montserrat', sans-serif;    
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+
+h1 {
+    font-size: 4rem;
+}
+h3 {
+    font-size: 2rem;
+    padding: 30px;    
+}
+.image{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background: url('https://blog.trello.com/hubfs/2017-07-06_Tips-For-Tackling-6-Big-Challenges-of-Remote-Work_01_cover_r01.png?t=1512081472154') no-repeat;
+    background-size: cover;
+    background-origin: border-box;  
+    background-position: center bottom;  
+}
+.content {
+    margin-top: 50px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+    text-align: center;
+    width: 100vw;
+    color: #ffe005;
+}
