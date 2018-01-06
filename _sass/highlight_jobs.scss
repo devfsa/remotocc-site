@@ -1,0 +1,18 @@
+.hightlight-jobs {
+    height: 300px;
+    position: relative;
+    text-align: center;
+    padding: 20px;
+    transform: translateY(30%);
+    & .title {
+        font-size: 28px;
+        width: 100%;
+        margin: 0;
+        color: #0052CC;
+    }
+    & .quote {
+        color: #7A869A;
+        font-size: 18px;
+        width: 100%;
+    }
+}
