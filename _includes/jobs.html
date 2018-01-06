@@ -1,5 +1,5 @@
 <div class="jobs-container">
-    {% for job in site.data.fake %}
+    {% for job in site.data.output %}
         <div class="job-item">
             <small class="date">{{ job.timestamp | date: "%d/%m/%Y" }}</small>
             <p class="jobcompany">{{ job.company }}</p>
