@@ -1,6 +1,6 @@
 <div class="jobs-container">
     {% for job in site.data.output %}
-        <div class="job-item" data-tags="{{ jobs.tags | join: ',' }}">
+        <div class="job-item" data-tags="{{ job.tags | join: ',' }}">
             <small class="date">{{ job.timestamp | date: "%d/%m/%Y" }}</small>
             <p class="jobcompany">{{ job.company }}</p>
             <h3 class="jobtitle">{{ job.title }}</h3>
