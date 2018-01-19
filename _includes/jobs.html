@@ -1,11 +1,11 @@
 <div class="jobs-container">
     {% for job in site.data.output %}
-        <div class="job-item">
+        <div class="job-item" data-tags="{{ jobs.tags | join: ',' }}">
             <small class="date">{{ job.timestamp | date: "%d/%m/%Y" }}</small>
             <p class="jobcompany">{{ job.company }}</p>
             <h3 class="jobtitle">{{ job.title }}</h3>
             {% for tag in job.tags %}
-                <p class="jobtag">{{ tag }}</p>
+                <a href="#{{tag}}" class="jobtag">{{ tag }}</a>
             {% endfor %}
             <a target="_blank" href="http://stackoverflow.com{{ job.url }}" class="joblink">acessar</a>
         </div>
