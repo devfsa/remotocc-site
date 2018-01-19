@@ -52,7 +52,17 @@
         left: 20px;
         display: none;
     }
+}
 
+.filtersWrapper {
+    ul.filters {
+        list-style: none;  
+        display: flex;
+      
+        .filterItem {
+            margin-right: 20px;
+        }
+    }
 }
 
 @media screen and (min-width: 1280px ) {

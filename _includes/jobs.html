@@ -1,3 +1,17 @@
+<div class="filtersWrapper">
+    <div class="filtersInner" id="filters" style="visibility: hidden;">
+        <ul class="filters">
+            <li class="filterItem">
+                <div class="filterGroup">
+                    <span class="filterLabel">Tags: </span>
+                    <span class="filterValue" id="tagsFilterLabel"></span>
+                </div>
+            </li>
+        </ul>
+        <div class="clearFiltersBtn" id="clearFiltersBtn">X</div>
+    </div>
+</div>
+
 <div class="jobs-container">
     {% for job in site.data.output %}
         <div class="job-item" data-tags="{{ job.tags | join: ',' }}">
