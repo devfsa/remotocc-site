@@ -11,7 +11,6 @@
 
     // listening clear filters button
     clearFiltersBtn.addEventListener('click', clearFiltersHandler);
-    console.log(filters);
 
     // listening url change detection
     window.addEventListener('hashchange', changeUrlHandler);
