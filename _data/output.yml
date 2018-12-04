@@ -1,24 +1,362 @@
 -
-    title: 'Director of Engineering - Front End'
-    url: '/jobs/216285/director-of-engineering-front-end-shiphero?a=1axbMrctmWxW&so=p&pg=1&offset=-1&total=169&l=Remote&u=Km&d=20'
+    title: 'Senior Infrastructure Engineer'
+    url: '/jobs/216687/senior-infrastructure-engineer-dataquest?a=1aFy1qaRByNO&so=p&pg=1&offset=-1&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.393Z
+    timestamp: 2018-12-04T17:13:07.783Z
     perks:
         -
             key: 'salary pr16'
-            value: '$120k - 150k'
+            value: "$110k - 130k\r\n\r\n                         | \r\nEquity"
         -
             key: 'remote pr16'
             value: Remote
     tags:
-        - react-native
-        - apollo
+        - python
+        - django
+        - docker
+        - sysadmin
+-
+    title: 'Remote Senior Engineer Scala & JS for Seed-Funded AngelPad Co (AngularJS/Play2)'
+    url: '/jobs/217175/remote-senior-engineer-scala-js-for-seed-funded-process-street?a=1aPGYcQejd4c&so=p&pg=1&offset=0&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.785Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: "$70k - 150k\r\n\r\n                         | \r\nEquity"
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - scala
+        - angularjs
+        - javascript
+        - playframework-2.0
+        - redux
+-
+    title: 'Sales Manager'
+    url: '/jobs/217145/sales-manager-giant-swarm-gmbh?a=1aP4in6565Ak&so=p&pg=1&offset=1&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.786Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - web-services
+        - amazon-web-services
+        - cloud
+-
+    title: 'Remote Website/UI Designer & Front-End Developer, Work from home'
+    url: '/jobs/201461/remote-website-ui-designer-front-end-developer-codeline?a=15yX8rXBF06A&so=p&pg=1&offset=2&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.787Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: '$33k - 42k'
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - css3
+        - html5
+        - javascript
+        - photoshop
+        - mockups
+-
+    title: 'Polyglot Engineer (Node, Go or Python) - Ripple - Blockchain Payment Solutions'
+    url: '/jobs/217100/polyglot-engineer-node-go-or-python-ripple-source-coders?a=1aO8hCtRhpmw&so=p&pg=1&offset=3&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.788Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: "$150k - 185k\r\n\r\n                         | \r\nEquity"
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - node.js
+        - go
+        - python
+-
+    title: 'Information Security Analyst'
+    url: '/jobs/194196/information-security-analyst-wikimedia-foundation-inc?a=137ToQcXzWBa&so=p&pg=1&offset=4&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.789Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - security
+        - threat-model
+-
+    title: 'QA Test Automation Engineer - 100% Remote'
+    url: '/jobs/80460/qa-test-automation-engineer-100-remote-ceros?a=qYZGmiu4rDy&so=p&pg=1&offset=5&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.790Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: Equity
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - automated-tests
+        - integration-testing
+        - testing
+        - php
+        - javascript
+-
+    title: 'Full Stack Developer'
+    url: '/jobs/217063/full-stack-developer-auth0?a=1aNmAi3Ws5NK&so=p&pg=1&offset=6&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.792Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - node.js
+        - javascript
+        - design
         - ecmascript-6
+        - rest
+-
+    title: 'Developer Support Engineer'
+    url: '/jobs/217062/developer-support-engineer-auth0?a=1aNlimxp4VdC&so=p&pg=1&offset=7&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.793Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - http
+        - security
+        - encryption
+        - authentication
+        - oauth-2.0
+-
+    title: 'Web Developer (Magento)'
+    url: '/jobs/217058/web-developer-magento-bear-group?a=1aNg8ErfAeT6&so=p&pg=1&offset=9&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.803Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - php
+        - jira
+        - oop
+-
+    title: 'Tech Lead'
+    url: '/jobs/217020/tech-lead-clevertech?a=1aMt9ouNnKKc&so=p&pg=1&offset=10&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.822Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - reactjs
+        - javascript
+        - redux
+        - node.js
+        - frontend
+-
+    title: 'Senior Full Stack Javascript Engineer'
+    url: '/jobs/217019/senior-full-stack-javascript-engineer-clevertech?a=1aMrRsYg0Aa4&so=p&pg=1&offset=11&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.823Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - javascript
+        - reactjs
+        - mysql
+        - go
+        - redux
+-
+    title: 'Senior Front End Javascript Engineer'
+    url: '/jobs/217017/senior-front-end-javascript-engineer-clevertech?a=1aMphBVbgeZO&so=p&pg=1&offset=12&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.825Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - javascript
+        - reactjs
+        - agile
+        - redux
+        - sql
+-
+    title: 'Senior Backend Data Engineer - Payments'
+    url: '/jobs/217016/senior-backend-data-engineer-payments-clevertech?a=1aMnZGoDT4pG&so=p&pg=1&offset=13&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.826Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - sql
+        - mongodb
+        - backend
+        - node.js
+        - go
+-
+    title: 'Senior Backend Data Engineer'
+    url: '/jobs/217014/senior-backend-data-engineer-clevertech?a=1aMlpPlz8Jfq&so=p&pg=1&offset=14&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.827Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - sql
+        - mongodb
+        - backend
+-
+    title: 'Ruby on Rails Tech Lead'
+    url: '/jobs/217013/ruby-on-rails-tech-lead-clevertech?a=1aMk7TP1LyFi&so=p&pg=1&offset=15&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.828Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - project-management
+        - ruby
+        - ruby-on-rails
+        - microservices
+        - postgresql
+-
+    title: 'Cybersecurity Software Engineer'
+    url: '/jobs/196323/cybersecurity-software-engineer-cylera?a=13Q7rjtTu03C&so=p&pg=1&offset=16&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.829Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: Equity
+        -
+            key: 'remote pr16'
+            value: Remote
+        -
+            key: 'visa pr16'
+            value: 'Visa sponsor'
+        -
+            key: relocation
+            value: 'Paid relocation'
+    tags:
+        - c
+        - redis
+        - python
+        - kubernetes
+        - apache-kafka
+-
+    title: 'Senior Data Scientist'
+    url: '/jobs/216985/senior-data-scientist-wallethub?a=1aLK1V7XiMlG&so=p&pg=1&offset=17&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.831Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - machine-learning
+        - java
+        - python
+        - spring
+        - mysql
+-
+    title: 'Senior Product Manager  -  Elastic Cloud - US East or EMEA'
+    url: '/jobs/216984/senior-product-manager-elastic-cloud-us-elastic?a=1aLIJZBpVBLy&so=p&pg=1&offset=18&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.833Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: Equity
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - elasticsearch
+        - cloud
+        - saas
+        - product-management
+-
+    title: 'Remote System Administrator (Eastern Europe)'
+    url: '/jobs/205696/remote-system-administrator-eastern-europe-mobymax?a=16Z0SKYz2w1y&so=p&pg=1&offset=19&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.842Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - sysadmin
+        - linux
+        - mysql
+        - amazon-web-services
+-
+    title: 'Fullstack Developer - PHP/React (Eastern Europe)'
+    url: '/jobs/205692/fullstack-developer-php-react-eastern-europe-mobymax?a=16YVz3r5SbCw&so=p&pg=1&offset=20&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.843Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - php
+        - reactjs
+        - mysql
+        - javascript
+-
+    title: 'Data Analyst (m/f)'
+    url: '/jobs/201317/data-analyst-m-f-komoot?a=15vXuQo5Qqc0&so=p&pg=1&offset=21&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.844Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - analytics
+        - pandas
+        - data-analysis
+-
+    title: 'Frontend Developer - Vue.js, React, Angular... (Remote)'
+    url: '/jobs/199987/frontend-developer-vuejs-react-angular-x-team?a=154iUQoaNpao&so=p&pg=1&offset=22&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.845Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - javascript
+        - vue.js
+        - reactjs
+        - angular
 -
     title: 'Technical Writer'
-    url: '/jobs/204123/technical-writer-hazelcast?a=16siSj0wvnk4&so=p&pg=1&offset=0&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/204123/technical-writer-hazelcast?a=16siSj0wvnk4&so=p&pg=1&offset=23&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.395Z
+    timestamp: 2018-12-04T17:13:07.847Z
     perks:
         -
             key: 'remote pr16'
@@ -30,9 +368,9 @@
         - streaming
 -
     title: 'Senior Software Engineer (Founding Team)'
-    url: '/jobs/96716/senior-software-engineer-founding-team-avanoo?a=wr0eZCRhar6&so=p&pg=1&offset=1&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/96716/senior-software-engineer-founding-team-avanoo?a=wr0eZCRhar6&so=p&pg=1&offset=24&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.396Z
+    timestamp: 2018-12-04T17:13:07.848Z
     perks:
         -
             key: 'salary pr16'
@@ -53,10 +391,26 @@
         - ruby-on-rails
         - reactjs
 -
-    title: 'Detection and Response Engineering Manager - Security Operations'
-    url: '/jobs/203996/detection-and-response-engineering-manager-auth0?a=16pF9tma2HjG&so=p&pg=1&offset=2&total=169&l=Remote&u=Km&d=20'
+    title: 'Director of Engineering - Front End'
+    url: '/jobs/216285/director-of-engineering-front-end-shiphero?a=1axbMrctmWxW&so=p&pg=2&offset=-1&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.397Z
+    timestamp: 2018-12-04T17:13:06.947Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: '$120k - 150k'
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - react-native
+        - apollo
+        - ecmascript-6
+-
+    title: 'Detection and Response Engineering Manager - Security Operations'
+    url: '/jobs/203996/detection-and-response-engineering-manager-auth0?a=16pF9tma2HjG&so=p&pg=2&offset=0&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:06.951Z
     perks:
         -
             key: 'remote pr16'
@@ -69,9 +423,9 @@
         - detection
 -
     title: 'Lead Ruby Developer (Rails and Non-Rails)'
-    url: '/jobs/203985/lead-ruby-developer-rails-and-non-rails-action-verb?a=16pqYgAeVOUg&so=p&pg=1&offset=3&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/203985/lead-ruby-developer-rails-and-non-rails-action-verb?a=16pqYgAeVOUg&so=p&pg=2&offset=1&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.398Z
+    timestamp: 2018-12-04T17:13:06.964Z
     perks:
         -
             key: 'remote pr16'
@@ -83,9 +437,9 @@
         - algorithm
 -
     title: 'Senior UI/UX Designer'
-    url: '/jobs/203984/senior-ui-ux-designer-action-verb?a=16ppGl3HyEk8&so=p&pg=1&offset=4&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/203984/senior-ui-ux-designer-action-verb?a=16ppGl3HyEk8&so=p&pg=2&offset=2&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.408Z
+    timestamp: 2018-12-04T17:13:06.984Z
     perks:
         -
             key: 'remote pr16'
@@ -98,9 +452,9 @@
         - java
 -
     title: 'Lead Frontend Developer'
-    url: '/jobs/203983/lead-frontend-developer-action-verb?a=16poopxabtK0&so=p&pg=1&offset=5&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/203983/lead-frontend-developer-action-verb?a=16poopxabtK0&so=p&pg=2&offset=3&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.409Z
+    timestamp: 2018-12-04T17:13:06.988Z
     perks:
         -
             key: 'remote pr16'
@@ -112,9 +466,9 @@
         - css
 -
     title: 'Senior Full Stack Node Developer - Fully Remote Role'
-    url: '/jobs/216858/senior-full-stack-node-developer-fully-remote-michael-page?a=1aJ6t4UUvKpO&so=p&pg=1&offset=6&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/216858/senior-full-stack-node-developer-fully-remote-michael-page?a=1aJ6t4UUvKpO&so=p&pg=2&offset=4&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.410Z
+    timestamp: 2018-12-04T17:13:06.990Z
     perks:
         -
             key: 'salary pr16'
@@ -130,9 +484,9 @@
         - sysadmin
 -
     title: 'Internal Support Engineer'
-    url: '/jobs/206990/internal-support-engineer-stack-overflow?a=17pUTmDMXK00&so=p&pg=1&offset=8&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/206990/internal-support-engineer-stack-overflow?a=17pUTmDMXK00&so=p&pg=2&offset=6&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.412Z
+    timestamp: 2018-12-04T17:13:06.992Z
     perks:
         -
             key: 'salary pr16'
@@ -145,9 +499,9 @@
         - bash
 -
     title: 'Backend Rails Engineer at a 100% remote enterprise SaaS company'
-    url: '/jobs/205486/backend-rails-engineer-at-a-100-remote-retail-zipline?a=16UDZVkcT1zW&so=p&pg=1&offset=9&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/205486/backend-rails-engineer-at-a-100-remote-retail-zipline?a=16UDZVkcT1zW&so=p&pg=2&offset=7&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.413Z
+    timestamp: 2018-12-04T17:13:06.993Z
     perks:
         -
             key: 'salary pr16'
@@ -163,9 +517,9 @@
         - ruby-on-rails-5
 -
     title: 'Senior Drupal/PHP Engineer'
-    url: '/jobs/203932/senior-drupal-php-engineer-compucorp-ltd?a=16okE5LI7M1q&so=p&pg=1&offset=10&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/203932/senior-drupal-php-engineer-compucorp-ltd?a=16okE5LI7M1q&so=p&pg=2&offset=8&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.414Z
+    timestamp: 2018-12-04T17:13:07.006Z
     perks:
         -
             key: 'salary pr16'
@@ -181,9 +535,9 @@
         - civicrm
 -
     title: 'Junior DevOps / SysAdmin Engineer - Drupal/PHP'
-    url: '/jobs/203930/junior-devops-sysadmin-engineer-drupal-php-compucorp-ltd?a=16oi4eIDnqRa&so=p&pg=1&offset=11&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/203930/junior-devops-sysadmin-engineer-drupal-php-compucorp-ltd?a=16oi4eIDnqRa&so=p&pg=2&offset=9&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.416Z
+    timestamp: 2018-12-04T17:13:07.008Z
     perks:
         -
             key: 'salary pr16'
@@ -198,9 +552,9 @@
         - apache
 -
     title: 'Pre-Sales/ Solutions Engineer (Financials or Project Management S/Ware) UK/EMEA'
-    url: '/jobs/216820/pre-sales-solutions-engineer-financials-or-financialforcecom?a=1aIjjPx8DCco&so=p&pg=1&offset=12&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/216820/pre-sales-solutions-engineer-financials-or-financialforcecom?a=1aIjjPx8DCco&so=p&pg=2&offset=10&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.437Z
+    timestamp: 2018-12-04T17:13:07.010Z
     perks:
         -
             key: 'remote pr16'
@@ -211,9 +565,9 @@
         - automation
 -
     title: 'Engineering Team Lead - Elasticsearch'
-    url: '/jobs/216800/engineering-team-lead-elasticsearch-elastic?a=1aHTxh2nacxO&so=p&pg=1&offset=13&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/216800/engineering-team-lead-elasticsearch-elastic?a=1aHTxh2nacxO&so=p&pg=2&offset=11&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.438Z
+    timestamp: 2018-12-04T17:13:07.012Z
     perks:
         -
             key: 'remote pr16'
@@ -223,33 +577,10 @@
         - java
         - distributed-system
 -
-    title: 'Product Owner'
-    url: '/jobs/164389/product-owner-giant-swarm-gmbh?a=T87skah5dh6&so=p&pg=1&offset=14&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.447Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: Equity
-        -
-            key: 'remote pr16'
-            value: Remote
-        -
-            key: 'visa pr16'
-            value: 'Visa sponsor'
-        -
-            key: relocation
-            value: 'Paid relocation'
-    tags:
-        - kubernetes
-        - infrastructure
-        - go
-        - product
--
     title: 'Python Developer (Remote)'
-    url: '/jobs/203899/python-developer-remote-x-team?a=16nE6trWN8Na&so=p&pg=1&offset=15&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/203899/python-developer-remote-x-team?a=16nE6trWN8Na&so=p&pg=2&offset=12&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.448Z
+    timestamp: 2018-12-04T17:13:07.022Z
     perks:
         -
             key: 'remote pr16'
@@ -259,9 +590,9 @@
         - django
 -
     title: 'Search Wrangler'
-    url: '/jobs/201268/search-wrangler-automattic?a=15uWknFIx3DG&so=p&pg=1&offset=16&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/201268/search-wrangler-automattic?a=15uWknFIx3DG&so=p&pg=2&offset=13&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.449Z
+    timestamp: 2018-12-04T17:13:07.042Z
     perks:
         -
             key: 'remote pr16'
@@ -274,9 +605,9 @@
         - apache-kafka
 -
     title: 'Systems Wrangler'
-    url: '/jobs/201267/systems-wrangler-automattic?a=15uV2s9b9T3y&so=p&pg=1&offset=17&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/201267/systems-wrangler-automattic?a=15uV2s9b9T3y&so=p&pg=2&offset=14&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.451Z
+    timestamp: 2018-12-04T17:13:07.046Z
     perks:
         -
             key: 'remote pr16'
@@ -290,9 +621,9 @@
         - sysadmin
 -
     title: 'Sr. Full Stack Engineer (Enterprise Saas) - Remote, USA ONLY'
-    url: '/jobs/216729/sr-full-stack-engineer-enterprise-saas-socialchorus?a=1aGq0oM9D5aE&so=p&pg=1&offset=18&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/216729/sr-full-stack-engineer-enterprise-saas-socialchorus?a=1aGq0oM9D5aE&so=p&pg=2&offset=15&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.453Z
+    timestamp: 2018-12-04T17:13:07.048Z
     perks:
         -
             key: 'salary pr16'
@@ -307,13 +638,13 @@
         - amazon-web-services
 -
     title: 'Remote VP Engineering'
-    url: '/jobs/216715/remote-vp-engineering-aula?a=1aG7XpqCoH0Q&so=p&pg=1&offset=19&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/216715/remote-vp-engineering-aula?a=1aG7XpqCoH0Q&so=p&pg=2&offset=16&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.454Z
+    timestamp: 2018-12-04T17:13:07.049Z
     perks:
         -
             key: 'salary pr16'
-            value: Equity
+            value: "£150k - 200k\r\n\r\n                         | \r\nEquity"
         -
             key: 'remote pr16'
             value: Remote
@@ -325,9 +656,9 @@
         - amazon-web-services
 -
     title: 'Engineer, Core Runtime'
-    url: '/jobs/206894/engineer-core-runtime-auth0?a=17nV8ig75m3C&so=p&pg=1&offset=20&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/206894/engineer-core-runtime-auth0?a=17nV8ig75m3C&so=p&pg=2&offset=17&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.455Z
+    timestamp: 2018-12-04T17:13:07.051Z
     perks:
         -
             key: 'remote pr16'
@@ -340,9 +671,9 @@
         - oauth
 -
     title: 'Engineering Manager'
-    url: '/jobs/216711/engineering-manager-auth0?a=1aG2NHksU0Gk&so=p&pg=1&offset=21&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/216711/engineering-manager-auth0?a=1aG2NHksU0Gk&so=p&pg=2&offset=18&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.456Z
+    timestamp: 2018-12-04T17:13:07.052Z
     perks:
         -
             key: 'remote pr16'
@@ -355,9 +686,9 @@
         - security
 -
     title: 'Software Engineer, iOS'
-    url: '/jobs/216709/software-engineer-ios-wikimedia-foundation-inc?a=1aG0dQho9Fw4&so=p&pg=1&offset=22&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/216709/software-engineer-ios-wikimedia-foundation-inc?a=1aG0dQho9Fw4&so=p&pg=2&offset=19&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.458Z
+    timestamp: 2018-12-04T17:13:07.062Z
     perks:
         -
             key: 'remote pr16'
@@ -368,9 +699,9 @@
         - swift
 -
     title: 'Data Analytic Mentor'
-    url: '/jobs/206863/data-analytic-mentor-thinkful-inc?a=17nhawZqv3ZC&so=p&pg=1&offset=23&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/206863/data-analytic-mentor-thinkful-inc?a=17nhawZqv3ZC&so=p&pg=2&offset=20&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.467Z
+    timestamp: 2018-12-04T17:13:07.065Z
     perks:
         -
             key: 'remote pr16'
@@ -382,41 +713,10 @@
         - tableau
         - ab-testing
 -
-    title: 'Senior Infrastructure Engineer'
-    url: '/jobs/216687/senior-infrastructure-engineer-dataquest?a=1aFxRqJxVUHe&so=p&pg=1&offset=24&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.468Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: "$110k - 130k\r\n\r\n                         | \r\nEquity"
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - python
-        - django
-        - docker
--
-    title: 'Ruby on Rails Software Developer'
-    url: '/jobs/173857/ruby-on-rails-software-developer-sevatec-inc?a=WiZmUw58WDm&so=p&pg=2&offset=-1&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.832Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - ruby-on-rails
-        - agile
-        - css
-        - javascript
-        - html5
--
     title: 'Senior Solidity Developer (Blockchain/Crypto)'
-    url: '/jobs/201202/senior-solidity-developer-blockchain-crypto-polymath?a=15tzp8tvxrfG&so=p&pg=2&offset=0&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/201202/senior-solidity-developer-blockchain-crypto-polymath?a=15tzp8tvxrfG&so=p&pg=2&offset=21&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.836Z
+    timestamp: 2018-12-04T17:13:07.068Z
     perks:
         -
             key: 'remote pr16'
@@ -428,9 +728,9 @@
         - agile
 -
     title: 'Backend Engineer (Algorithms, Rankings and Recommendations) (m/f)'
-    url: '/jobs/216598/backend-engineer-algorithms-rankings-and-komoot?a=1aDH7R1DFIPK&so=p&pg=2&offset=1&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/216598/backend-engineer-algorithms-rankings-and-komoot?a=1aDH7R1DFIPK&so=p&pg=2&offset=22&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.838Z
+    timestamp: 2018-12-04T17:13:07.069Z
     perks:
         -
             key: 'remote pr16'
@@ -443,9 +743,9 @@
         - optimization
 -
     title: 'Cloud Go Engineer'
-    url: '/jobs/216322/cloud-go-engineer-elastic?a=1axXjMb4wC08&so=p&pg=2&offset=2&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/216322/cloud-go-engineer-elastic?a=1axXjMb4wC08&so=p&pg=2&offset=23&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.848Z
+    timestamp: 2018-12-04T17:13:07.083Z
     perks:
         -
             key: 'remote pr16'
@@ -456,9 +756,9 @@
         - docker
 -
     title: 'Search- Product Designer'
-    url: '/jobs/216321/search-product-designer-elastic?a=1axW1QEx9rq0&so=p&pg=2&offset=3&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/216321/search-product-designer-elastic?a=1axW1QEx9rq0&so=p&pg=2&offset=24&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.850Z
+    timestamp: 2018-12-04T17:13:07.085Z
     perks:
         -
             key: 'remote pr16'
@@ -469,420 +769,10 @@
         - user-experience
         - s
 -
-    title: 'Full Stack Engineer- Ruby on Rails'
-    url: '/jobs/198510/full-stack-engineer-ruby-on-rails-elastic?a=14zAPsf7OitO&so=p&pg=2&offset=4&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.852Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - elasticsearch
-        - reactjs
-        - ruby-on-rails
--
-    title: 'Backend Engineer Data Team - 100% Remote  Canada/Colombia/US'
-    url: '/jobs/201138/backend-engineer-data-team-100-remote-canada-sonatype?a=15seJLrJWRSU&so=p&pg=2&offset=5&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.853Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - amazon-web-services
-        - java
-        - mongodb
-        - apache-spark
-        - elasticsearch
--
-    title: 'Cryptocurrency integration specialist (C/C++)'
-    url: '/jobs/206732/cryptocurrency-integration-specialist-c-c-plus-plus-core-data?a=17kyhZeUxHEI&so=p&pg=2&offset=6&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.867Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - c++
-        - docker
-        - boost
--
-    title: 'Senior Front End Developer'
-    url: '/jobs/216291/senior-front-end-developer-threshold?a=1axjm0UnWjW8&so=p&pg=2&offset=7&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.869Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: '$114k - 176k'
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - preact
-        - redux
-        - graphql
-        - google-cloud-platform
-        - progressive-web-apps
--
-    title: 'Search-Site Reliability Engineer'
-    url: '/jobs/198104/search-site-reliability-engineer-elastic?a=14r9qLaA4ZTq&so=p&pg=2&offset=9&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.871Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - elasticsearch
-        - ruby-on-rails
-        - python
--
-    title: 'Senior Software Engineer'
-    url: '/jobs/216148/senior-software-engineer-keona-health?a=1aul0kRpuUBG&so=p&pg=2&offset=10&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.872Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: '$95k - 120k'
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - reactjs
-        - javascript
-        - asp.net
-        - sql-server
-        - webpack
--
-    title: 'Senior Business Intelligence Software Developer'
-    url: '/jobs/216132/senior-business-intelligence-software-developer-keona-health?a=1au0xtU7bPm8&so=p&pg=2&offset=11&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.874Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: "$95k - 120k\r\n\r\n                         | \r\nEquity"
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - sql
-        - sql-server
-        - javascript
-        - .net
-        - data-warehouse
--
-    title: 'C++ Developer - CANADIAN RESIDENTS ONLY'
-    url: '/jobs/206670/c-plus-plus-developer-canadian-residents-only-hays-plc?a=17jgmsHxn7wI&so=p&pg=2&offset=12&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.877Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - c++
-        - user-experience
-        - game-engine
-        - android
-        - ios
--
-    title: 'Lead full-stack web developer - React / Rails / Laravel'
-    url: '/jobs/215516/lead-full-stack-web-developer-react-rails-learning-ovations-inc?a=1ahcfXbdj2k8&so=p&pg=2&offset=13&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.878Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: '$140k - 170k'
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - reactjs
-        - ruby-on-rails
-        - php
-        - laravel
-        - amazon-web-services
--
-    title: 'Lead Architect - Remote'
-    url: '/jobs/215506/lead-architect-remote-toptal?a=1agZmFVPzkuQ&so=p&pg=2&offset=14&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.888Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - ruby
-        - reactjs
-        - soa
-        - design-patterns
-        - web-applications
--
-    title: 'Senior Backend Data Engineer - Payments'
-    url: '/jobs/215504/senior-backend-data-engineer-payments-clevertech?a=1agWMOSKOZkA&so=p&pg=2&offset=15&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.889Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - sql
-        - mongodb
-        - backend
-        - node.js
-        - go
--
-    title: 'Senior Python Developer'
-    url: '/jobs/202055/senior-python-developer-xapo?a=15LiTzHlEofe&so=p&pg=2&offset=16&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.891Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: Equity
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - python
-        - flask
-        - django
-        - redis
-        - reactjs
--
-    title: 'Systems & Applications developer'
-    url: '/jobs/215465/systems-applications-developer-moonshot-cve?a=1ag8vDpLfkBy&so=p&pg=2&offset=17&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.892Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: '£38k - 42k'
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - ubuntu
-        - amazon-web-services
-        - go
-        - python
-        - postgresql
--
-    title: 'Senior fullstack engineer- JS+Ruby'
-    url: '/jobs/154997/senior-fullstack-engineer-js-plusruby-sticker-mule?a=PYPQeA0LKnK&so=p&pg=2&offset=18&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.894Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: '$90k - 115k'
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - ruby-on-rails
-        - javascript
-        - go
-        - ruby
-        - google-cloud-platform
--
-    title: 'Full Stack: Vue.js/Javascript/Python Developer: with an established startup'
-    url: '/jobs/99781/full-stack-vuejs-javascript-python-developer-service-fusion?a=xsJvLaHJkuA&so=p&pg=2&offset=19&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.896Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: '$60k - 120k'
-        -
-            key: 'remote pr16'
-            value: Remote
-        -
-            key: relocation
-            value: 'Paid relocation'
-    tags:
-        - python
-        - javascript
-        - vue.js
-        - postgresql
--
-    title: 'Senior DevOps Engineer- 100% Remote - Canada and USA'
-    url: '/jobs/214706/senior-devops-engineer-100-remote-canada-and-sonatype?a=1a0m2q5cAMjC&so=p&pg=2&offset=20&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.898Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - amazon-web-services
-        - linux
-        - terraform
-        - ansible
-        - datadog
--
-    title: 'VP of Engineering'
-    url: '/jobs/203726/vp-of-engineering-socialchorus?a=16k34XEP8BYQ&so=p&pg=2&offset=21&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.908Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: Equity
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - saas
-        - amazon-web-services
-        - ruby-on-rails
-        - javascript
--
-    title: 'Senior Java Back End Developer'
-    url: '/jobs/214697/senior-java-back-end-developer-wallethub?a=1a0ar4mmef4s&so=p&pg=2&offset=22&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.911Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - spring
-        - java
-        - spring-mvc
-        - java-ee
--
-    title: 'Senior Reactjs Dev (Redux, Learnosity, Apollo, Graphql, Axios, SCSS)'
-    url: '/jobs/168962/senior-reactjs-dev-redux-learnosity-apollo-finetune-learning?a=UFcWezaMq9G&so=p&pg=2&offset=23&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.912Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - graphql
-        - reactjs
-        - redux
-        - react-apollo
-        - responsive
--
-    title: 'Senior Backend Python/Docker (SQLAlchemy, NoSQL, GraphQL, AWS) - Reactjs plus'
-    url: '/jobs/163285/senior-backend-python-docker-sqlalchemy-nosql-finetune-learning?a=SLao0dkaq1a&so=p&pg=2&offset=24&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.914Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - python
-        - docker
-        - graphql
-        - jest
-        - reactjs
--
-    title: 'Freelance Expert Interviewer'
-    url: '/jobs/141116/freelance-expert-interviewer-karat?a=Lkd2aG49pAI&so=p&pg=3&offset=-1&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.178Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: '$50k - 160k'
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - technical-interviewing
-        - data-structures
-        - algorithm
-        - java
-        - python
--
-    title: 'Autonomous Cloud Evangelist'
-    url: '/jobs/214573/autonomous-cloud-evangelist-dynatrace?a=19XAK0IVyISY&so=p&pg=3&offset=0&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.188Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - cloud
-        - java
-        - amazon-web-services
-        - architecture
-        - agile
--
-    title: 'Software Engineer, Fraud Prevention'
-    url: '/jobs/200852/software-engineer-fraud-prevention-olo?a=15mi2plN43e0&so=p&pg=3&offset=1&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.189Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - amazon-web-services
-        - 'c#'
-        - .net
--
-    title: 'Senior Backend Data Engineer'
-    url: '/jobs/214312/senior-backend-data-engineer-clevertech?a=19Sa6Rj7lwIM&so=p&pg=3&offset=2&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.191Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - sql
-        - mongodb
-        - backend
--
-    title: 'Senior Front End Javascript Engineer'
-    url: '/jobs/214310/senior-front-end-javascript-engineer-clevertech?a=19S7x0g2Bbyw&so=p&pg=3&offset=3&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.192Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - javascript
-        - reactjs
-        - agile
-        - redux
-        - sql
--
-    title: 'Senior Full Stack Javascript Engineer'
-    url: '/jobs/214307/senior-full-stack-javascript-engineer-clevertech?a=19S3FdGqtFO8&so=p&pg=3&offset=4&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.193Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - javascript
-        - reactjs
-        - mysql
-        - go
-        - redux
--
     title: 'Principal Data Engineer'
-    url: '/jobs/200775/principal-data-engineer-usa-today-network?a=15kGVXnEXyqA&so=p&pg=3&offset=5&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/200775/principal-data-engineer-usa-today-network?a=15kGVXnEXysE&so=p&pg=3&offset=-1&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.195Z
+    timestamp: 2018-12-04T17:13:07.170Z
     perks:
         -
             key: 'remote pr16'
@@ -900,10 +790,327 @@
         - etl
         - amazon-web-services
 -
-    title: 'Senior Java TechOps Engineer'
-    url: '/jobs/194418/senior-java-techops-engineer-selerity?a=13cvKO9Mdu2k&so=p&pg=3&offset=6&total=169&l=Remote&u=Km&d=20'
+    title: 'Full Stack Engineer- Ruby on Rails'
+    url: '/jobs/198510/full-stack-engineer-ruby-on-rails-elastic?a=14zAPsf7OitO&so=p&pg=3&offset=0&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.196Z
+    timestamp: 2018-12-04T17:13:07.185Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - elasticsearch
+        - reactjs
+        - ruby-on-rails
+-
+    title: 'Backend Engineer Data Team - 100% Remote  Canada/Colombia/US'
+    url: '/jobs/201138/backend-engineer-data-team-100-remote-canada-sonatype?a=15seJLrJWRSU&so=p&pg=3&offset=1&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.187Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - amazon-web-services
+        - java
+        - mongodb
+        - apache-spark
+        - elasticsearch
+-
+    title: 'Cryptocurrency integration specialist (C/C++)'
+    url: '/jobs/206732/cryptocurrency-integration-specialist-c-c-plus-plus-core-data?a=17kyhZeUxHEI&so=p&pg=3&offset=2&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.189Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - c++
+        - docker
+        - boost
+-
+    title: 'Senior Front End Developer'
+    url: '/jobs/216291/senior-front-end-developer-threshold?a=1axjm0UnWjW8&so=p&pg=3&offset=3&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.202Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: '$114k - 176k'
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - preact
+        - redux
+        - graphql
+        - google-cloud-platform
+        - progressive-web-apps
+-
+    title: 'Ruby on Rails Software Developer'
+    url: '/jobs/173857/ruby-on-rails-software-developer-sevatec-inc?a=WiZmUw58WBi&so=p&pg=3&offset=4&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.204Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - ruby-on-rails
+        - agile
+        - css
+        - javascript
+        - html5
+-
+    title: 'Search-Site Reliability Engineer'
+    url: '/jobs/198104/search-site-reliability-engineer-elastic?a=14r9qLaA4ZTq&so=p&pg=3&offset=5&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.206Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - elasticsearch
+        - ruby-on-rails
+        - python
+-
+    title: 'Senior Software Engineer'
+    url: '/jobs/216148/senior-software-engineer-keona-health?a=1aul0kRpuUBG&so=p&pg=3&offset=6&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.208Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: '$95k - 120k'
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - reactjs
+        - javascript
+        - asp.net
+        - sql-server
+        - webpack
+-
+    title: 'Senior Business Intelligence Software Developer'
+    url: '/jobs/216132/senior-business-intelligence-software-developer-keona-health?a=1au0xtU7bPm8&so=p&pg=3&offset=7&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.210Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: "$95k - 120k\r\n\r\n                         | \r\nEquity"
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - sql
+        - sql-server
+        - javascript
+        - .net
+        - data-warehouse
+-
+    title: 'C++ Developer - CANADIAN RESIDENTS ONLY'
+    url: '/jobs/206670/c-plus-plus-developer-canadian-residents-only-hays-plc?a=17jgmsHxn7wI&so=p&pg=3&offset=8&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.211Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - c++
+        - user-experience
+        - game-engine
+        - android
+        - ios
+-
+    title: 'Lead Architect - Remote'
+    url: '/jobs/215506/lead-architect-remote-toptal?a=1agZmFVPzkuQ&so=p&pg=3&offset=9&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.222Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - ruby
+        - reactjs
+        - soa
+        - design-patterns
+        - web-applications
+-
+    title: 'Senior Python Developer'
+    url: '/jobs/202055/senior-python-developer-xapo?a=15LiTzHlEofe&so=p&pg=3&offset=10&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.224Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: Equity
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - python
+        - flask
+        - django
+        - redis
+        - reactjs
+-
+    title: 'Systems & Applications developer'
+    url: '/jobs/215465/systems-applications-developer-moonshot-cve?a=1ag8vDpLfkBy&so=p&pg=3&offset=11&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.226Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: '£38k - 42k'
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - ubuntu
+        - amazon-web-services
+        - go
+        - python
+        - postgresql
+-
+    title: 'Senior fullstack engineer- JS+Ruby'
+    url: '/jobs/154997/senior-fullstack-engineer-js-plusruby-sticker-mule?a=PYPQeA0LKnK&so=p&pg=3&offset=12&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.227Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: '$90k - 115k'
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - ruby-on-rails
+        - javascript
+        - go
+        - ruby
+        - google-cloud-platform
+-
+    title: 'Full Stack: Vue.js/Javascript/Python Developer: with an established startup'
+    url: '/jobs/99781/full-stack-vuejs-javascript-python-developer-service-fusion?a=xsJvLaHJkuA&so=p&pg=3&offset=13&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.229Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: '$60k - 120k'
+        -
+            key: 'remote pr16'
+            value: Remote
+        -
+            key: relocation
+            value: 'Paid relocation'
+    tags:
+        - python
+        - javascript
+        - vue.js
+        - postgresql
+-
+    title: 'Senior DevOps Engineer- 100% Remote - Canada and USA'
+    url: '/jobs/214706/senior-devops-engineer-100-remote-canada-and-sonatype?a=1a0m2q5cAMjC&so=p&pg=3&offset=14&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.243Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - amazon-web-services
+        - linux
+        - terraform
+        - ansible
+        - datadog
+-
+    title: 'VP of Engineering'
+    url: '/jobs/203726/vp-of-engineering-socialchorus?a=16k34XEP8BYQ&so=p&pg=3&offset=15&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.244Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: Equity
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - saas
+        - amazon-web-services
+        - ruby-on-rails
+        - javascript
+-
+    title: 'Senior Reactjs Dev (Redux, Learnosity, Apollo, Graphql, Axios, SCSS)'
+    url: '/jobs/168962/senior-reactjs-dev-redux-learnosity-apollo-finetune-learning?a=UFcWezaMq9G&so=p&pg=3&offset=16&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.246Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - graphql
+        - reactjs
+        - redux
+        - react-apollo
+        - responsive
+-
+    title: 'Senior Backend Python/Docker (SQLAlchemy, NoSQL, GraphQL, AWS) - Reactjs plus'
+    url: '/jobs/163285/senior-backend-python-docker-sqlalchemy-nosql-finetune-learning?a=SLao0dkaq1a&so=p&pg=3&offset=17&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.247Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - python
+        - docker
+        - graphql
+        - jest
+        - reactjs
+-
+    title: 'Autonomous Cloud Evangelist'
+    url: '/jobs/214573/autonomous-cloud-evangelist-dynatrace?a=19XAK0IVyISY&so=p&pg=3&offset=18&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.250Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - cloud
+        - java
+        - amazon-web-services
+        - architecture
+        - agile
+-
+    title: 'Software Engineer, Fraud Prevention'
+    url: '/jobs/200852/software-engineer-fraud-prevention-olo?a=15mi2plN43e0&so=p&pg=3&offset=19&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.252Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - amazon-web-services
+        - 'c#'
+        - .net
+-
+    title: 'Senior Java TechOps Engineer'
+    url: '/jobs/194418/senior-java-techops-engineer-selerity?a=13cvKO9Mdu2k&so=p&pg=3&offset=21&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.262Z
     perks:
         -
             key: 'remote pr16'
@@ -916,9 +1123,9 @@
         - architecture
 -
     title: 'Senior Backend/Blockchain Developer [Remote]'
-    url: '/jobs/206560/senior-backend-blockchain-developer-remote-bitfinex?a=17gYyoYkglqw&so=p&pg=3&offset=7&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/206560/senior-backend-blockchain-developer-remote-bitfinex?a=17gYyoYkglqw&so=p&pg=3&offset=22&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.197Z
+    timestamp: 2018-12-04T17:13:07.263Z
     perks:
         -
             key: 'salary pr16'
@@ -934,9 +1141,9 @@
         - blockchain
 -
     title: 'Android Developer (m/f)'
-    url: '/jobs/206557/android-developer-m-f-komoot?a=17gUGCoI8PG8&so=p&pg=3&offset=8&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/206557/android-developer-m-f-komoot?a=17gUGCoI8PG8&so=p&pg=3&offset=23&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.207Z
+    timestamp: 2018-12-04T17:13:07.265Z
     perks:
         -
             key: 'remote pr16'
@@ -948,9 +1155,9 @@
         - mobile
 -
     title: 'ReactJS Developer (m/f)'
-    url: '/jobs/206554/reactjs-developer-m-f-komoot?a=17gQOPP61jVK&so=p&pg=3&offset=9&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/206554/reactjs-developer-m-f-komoot?a=17gQOPP61jVK&so=p&pg=3&offset=24&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.217Z
+    timestamp: 2018-12-04T17:13:07.266Z
     perks:
         -
             key: 'remote pr16'
@@ -960,28 +1167,28 @@
         - javascript
         - node.js
 -
-    title: 'Senior DevOps Engineer - Revolutionary eCommerce Platform - SF, CA or Remote'
-    url: '/jobs/198228/senior-devops-engineer-revolutionary-ecommerce-source-coders?a=14tJhOfkqa9q&so=p&pg=3&offset=10&total=169&l=Remote&u=Km&d=20'
+    title: 'Freelance Expert Interviewer'
+    url: '/jobs/141116/freelance-expert-interviewer-karat?a=Lkd2aG49pAI&so=p&pg=4&offset=-1&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.227Z
+    timestamp: 2018-12-04T17:13:07.546Z
     perks:
         -
             key: 'salary pr16'
-            value: "$160k - 180k\r\n\r\n                         | \r\nEquity"
+            value: '$50k - 160k'
         -
             key: 'remote pr16'
             value: Remote
     tags:
-        - docker
-        - kubernetes
-        - heroku
-        - amazon-web-services
-        - ruby
+        - technical-interviewing
+        - data-structures
+        - algorithm
+        - java
+        - python
 -
     title: 'Senior Full-Stack Dev (Ruby/Python/React) - 100% Remote, Flexible Hours'
-    url: '/jobs/136187/senior-full-stack-dev-ruby-python-react-100-analytics-fire?a=JFIBXrxpre8&so=p&pg=3&offset=11&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/136187/senior-full-stack-dev-ruby-python-react-100-analytics-fire?a=JFIBXrxpre8&so=p&pg=4&offset=0&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.229Z
+    timestamp: 2018-12-04T17:13:07.548Z
     perks:
         -
             key: 'remote pr16'
@@ -994,9 +1201,9 @@
         - ruby-on-rails
 -
     title: 'Java Developer (Remote)'
-    url: '/jobs/206435/java-developer-remote-x-team?a=17enpqn2y0Ao&so=p&pg=3&offset=12&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/206435/java-developer-remote-x-team?a=17enpqn2y0Ao&so=p&pg=4&offset=1&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.230Z
+    timestamp: 2018-12-04T17:13:07.549Z
     perks:
         -
             key: 'remote pr16'
@@ -1008,9 +1215,9 @@
         - spring-boot
 -
     title: 'Solutions Architect'
-    url: '/jobs/206323/solutions-architect-auth0?a=17c31vAKGTjW&so=p&pg=3&offset=13&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/206323/solutions-architect-auth0?a=17c31vAKGTjW&so=p&pg=4&offset=2&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.231Z
+    timestamp: 2018-12-04T17:13:07.550Z
     perks:
         -
             key: 'remote pr16'
@@ -1023,9 +1230,9 @@
         - amazon-web-services
 -
     title: 'Front End Developer [Remote]'
-    url: '/jobs/205137/front-end-developer-remote-bitfinex?a=16No57alsscU&so=p&pg=3&offset=14&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/205137/front-end-developer-remote-bitfinex?a=16No57alsscU&so=p&pg=4&offset=3&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.233Z
+    timestamp: 2018-12-04T17:13:07.551Z
     perks:
         -
             key: 'salary pr16'
@@ -1040,9 +1247,9 @@
         - react-redux
 -
     title: 'Kentico Developer (remote, based in LATAM)'
-    url: '/jobs/164615/kentico-developer-remote-based-in-latam-a?a=TcOO0LVxMYg&so=p&pg=3&offset=15&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/164615/kentico-developer-remote-based-in-latam-a?a=TcOO0LVxMYg&so=p&pg=4&offset=4&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.234Z
+    timestamp: 2018-12-04T17:13:07.553Z
     perks:
         -
             key: 'salary pr16'
@@ -1056,9 +1263,9 @@
         - asp.net
 -
     title: 'Site Reliability Engineer- Europe'
-    url: '/jobs/197949/site-reliability-engineer-europe-elastic?a=14nVBWP99xzq&so=p&pg=3&offset=16&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/197949/site-reliability-engineer-europe-elastic?a=14nVBWP99xzq&so=p&pg=4&offset=5&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.235Z
+    timestamp: 2018-12-04T17:13:07.570Z
     perks:
         -
             key: 'remote pr16'
@@ -1069,9 +1276,9 @@
         - system
 -
     title: 'Senior JavaScript Security Engineer'
-    url: '/jobs/209869/senior-javascript-security-engineer-elastic?a=18nMnyzvU9Fu&so=p&pg=3&offset=18&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/209869/senior-javascript-security-engineer-elastic?a=18nMnyzvU9Fu&so=p&pg=4&offset=7&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.236Z
+    timestamp: 2018-12-04T17:13:07.572Z
     perks:
         -
             key: 'remote pr16'
@@ -1084,9 +1291,9 @@
         - ipsec
 -
     title: 'UI Engineer'
-    url: '/jobs/209868/ui-engineer-elastic?a=18nL5D2YwZ5m&so=p&pg=3&offset=19&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/209868/ui-engineer-elastic?a=18nL5D2YwZ5m&so=p&pg=4&offset=8&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.237Z
+    timestamp: 2018-12-04T17:13:07.573Z
     perks:
         -
             key: 'remote pr16'
@@ -1098,9 +1305,9 @@
         - javascript
 -
     title: 'Senior Frontend developer'
-    url: '/jobs/200456/senior-frontend-developer-xapo?a=15e3wZwD4ssU&so=p&pg=3&offset=20&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/200456/senior-frontend-developer-xapo?a=15e3wZwD4ssU&so=p&pg=4&offset=9&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.238Z
+    timestamp: 2018-12-04T17:13:07.582Z
     perks:
         -
             key: 'salary pr16'
@@ -1114,9 +1321,9 @@
         - redux-saga
 -
     title: 'Platform Engineer'
-    url: '/jobs/209484/platform-engineer-heetch?a=18fM3lwh1rjO&so=p&pg=3&offset=21&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/209484/platform-engineer-heetch?a=18fM3lwh1rjO&so=p&pg=4&offset=10&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.248Z
+    timestamp: 2018-12-04T17:13:07.583Z
     perks:
         -
             key: 'remote pr16'
@@ -1129,9 +1336,9 @@
         - aws-lambda
 -
     title: 'Software Engineer (Remote)'
-    url: '/jobs/200139/software-engineer-remote-ascend-hit?a=157t1RBjgZOw&so=p&pg=3&offset=22&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/200139/software-engineer-remote-ascend-hit?a=157t1RBjgZOw&so=p&pg=4&offset=11&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.249Z
+    timestamp: 2018-12-04T17:13:07.586Z
     perks:
         -
             key: 'remote pr16'
@@ -1144,9 +1351,9 @@
         - mongodb
 -
     title: 'Cloud- Cloud Engineer'
-    url: '/jobs/200513/cloud-cloud-engineer-elastic?a=15ff0SrjnbGg&so=p&pg=3&offset=23&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/200513/cloud-cloud-engineer-elastic?a=15ff0SrjnbGg&so=p&pg=4&offset=12&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.250Z
+    timestamp: 2018-12-04T17:13:07.588Z
     perks:
         -
             key: 'remote pr16'
@@ -1159,9 +1366,9 @@
         - java
 -
     title: 'Senior Android Developer'
-    url: '/jobs/208734/senior-android-developer-nymcard?a=180bbtUyJqh2&so=p&pg=3&offset=24&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208734/senior-android-developer-nymcard?a=180bbtUyJqh2&so=p&pg=4&offset=13&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.251Z
+    timestamp: 2018-12-04T17:13:07.589Z
     perks:
         -
             key: 'remote pr16'
@@ -1171,24 +1378,10 @@
         - mobile
         - java
 -
-    title: 'Remote System Administrator (Eastern Europe)'
-    url: '/jobs/205696/remote-system-administrator-eastern-europe-mobymax?a=16Z0SKYz2w3C&so=p&pg=4&offset=-1&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.298Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - sysadmin
-        - linux
-        - mysql
-        - amazon-web-services
--
     title: 'Senior Software Engineer - Tooling Integrations - 100% Remote'
-    url: '/jobs/208730/senior-software-engineer-tooling-integrations-sonatype?a=18061LOpeJWw&so=p&pg=4&offset=0&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208730/senior-software-engineer-tooling-integrations-sonatype?a=18061LOpeJWw&so=p&pg=4&offset=14&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.309Z
+    timestamp: 2018-12-04T17:13:07.590Z
     perks:
         -
             key: 'remote pr16'
@@ -1201,9 +1394,9 @@
         - javascript
 -
     title: 'Senior Platform Engineer - 100% Remote - Canada/Colombia/USA'
-    url: '/jobs/208729/senior-platform-engineer-100-remote-canada-sonatype?a=1804JQhRRzmo&so=p&pg=4&offset=1&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208729/senior-platform-engineer-100-remote-canada-sonatype?a=1804JQhRRzmo&so=p&pg=4&offset=15&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.310Z
+    timestamp: 2018-12-04T17:13:07.591Z
     perks:
         -
             key: 'remote pr16'
@@ -1216,9 +1409,9 @@
         - apache-kafka
 -
     title: 'Senior Security Researcher - Applications - Canada/Colombia/US 100% Remote'
-    url: '/jobs/208728/senior-security-researcher-applications-sonatype?a=1803rULkuoMg&so=p&pg=4&offset=2&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208728/senior-security-researcher-applications-sonatype?a=1803rULkuoMg&so=p&pg=4&offset=16&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.311Z
+    timestamp: 2018-12-04T17:13:07.592Z
     perks:
         -
             key: 'remote pr16'
@@ -1231,9 +1424,9 @@
         - javascript
 -
     title: 'Senior iOS Developer'
-    url: '/jobs/208725/senior-ios-developer-browzzin-pte-ltd?a=17ZZA8bImT1S&so=p&pg=4&offset=3&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208725/senior-ios-developer-browzzin-pte-ltd?a=17ZZA8bImT1S&so=p&pg=4&offset=17&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.312Z
+    timestamp: 2018-12-04T17:13:07.602Z
     perks:
         -
             key: 'salary pr16'
@@ -1249,9 +1442,9 @@
         - rest
 -
     title: 'Android Developer (REMOTE)'
-    url: '/jobs/195374/android-developer-remote-xapo?a=13wo1Or3P13a&so=p&pg=4&offset=4&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/195374/android-developer-remote-xapo?a=13wo1Or3P13a&so=p&pg=4&offset=18&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.314Z
+    timestamp: 2018-12-04T17:13:07.603Z
     perks:
         -
             key: 'salary pr16'
@@ -1268,9 +1461,9 @@
         - sysadmin
 -
     title: 'Remote Senior Full-stack Javascript Engineer (React/Node.js) ‍‍'
-    url: '/jobs/162940/remote-senior-full-stack-javascript-engineer-aula?a=SDZsUIiySU8&so=p&pg=4&offset=5&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/162940/remote-senior-full-stack-javascript-engineer-aula?a=SDZsUIiySU8&so=p&pg=4&offset=19&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.316Z
+    timestamp: 2018-12-04T17:13:07.604Z
     perks:
         -
             key: 'salary pr16'
@@ -1286,9 +1479,9 @@
         - docker
 -
     title: '(100% Remote) C++/Qt Devs: SaaS time tracking and productivity tool'
-    url: '/jobs/203355/100-remote-c-plus-plus-qt-devs-saas-time-tracking-and-timedoctorcom-llc?a=16ckNJX7uhMY&so=p&pg=4&offset=6&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/203355/100-remote-c-plus-plus-qt-devs-saas-time-tracking-and-timedoctorcom-llc?a=16ckNJX7uhMY&so=p&pg=4&offset=20&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.317Z
+    timestamp: 2018-12-04T17:13:07.606Z
     perks:
         -
             key: 'remote pr16'
@@ -1300,9 +1493,9 @@
         - macos
 -
     title: 'Senior Operations Engineer'
-    url: '/jobs/208585/senior-operations-engineer-wikimedia-foundation-inc?a=17X56eIm2ZrO&so=p&pg=4&offset=7&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208585/senior-operations-engineer-wikimedia-foundation-inc?a=17X56eIm2ZrO&so=p&pg=4&offset=21&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.318Z
+    timestamp: 2018-12-04T17:13:07.607Z
     perks:
         -
             key: 'remote pr16'
@@ -1313,9 +1506,9 @@
         - c
 -
     title: 'Senior Python Engineer with a knack for NLP'
-    url: '/jobs/208559/senior-python-engineer-with-a-knack-for-nlp-marketmuse?a=17WxA74mkyis&so=p&pg=4&offset=8&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208559/senior-python-engineer-with-a-knack-for-nlp-marketmuse?a=17WxA74mkyis&so=p&pg=4&offset=22&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.328Z
+    timestamp: 2018-12-04T17:13:07.608Z
     perks:
         -
             key: 'remote pr16'
@@ -1331,9 +1524,9 @@
         - nlp
 -
     title: 'Senior Test Automation Software Engineer'
-    url: '/jobs/208529/senior-test-automation-software-engineer-givelify?a=17VUUhkd7qOA&so=p&pg=4&offset=9&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208529/senior-test-automation-software-engineer-givelify?a=17VUUhkd7qOA&so=p&pg=4&offset=23&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.329Z
+    timestamp: 2018-12-04T17:13:07.609Z
     perks:
         -
             key: 'remote pr16'
@@ -1346,9 +1539,9 @@
         - python
 -
     title: 'Senior Full Stack Engineer'
-    url: '/jobs/208520/senior-full-stack-engineer-givelify?a=17VJiVBmKTzq&so=p&pg=4&offset=10&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208520/senior-full-stack-engineer-givelify?a=17VJiVBmKTzq&so=p&pg=4&offset=24&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.330Z
+    timestamp: 2018-12-04T17:13:07.610Z
     perks:
         -
             key: 'remote pr16'
@@ -1360,10 +1553,25 @@
         - python
         - spark
 -
-    title: 'Senior Robotics Developer / Specialist / Researcher'
-    url: '/jobs/168922/senior-robotics-developer-specialist-aeolus-robotics?a=UEnd88k9WM0&so=p&pg=4&offset=11&total=169&l=Remote&u=Km&d=20'
+    title: 'Senior iOS Engineer'
+    url: '/jobs/208169/senior-ios-engineer-brave-software?a=17OqYfPKfD8I&so=p&pg=5&offset=-1&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.331Z
+    timestamp: 2018-12-04T17:13:07.704Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - swift
+        - ios
+        - objective-c
+        - xcode
+        - javascript
+-
+    title: 'Senior Robotics Developer / Specialist / Researcher'
+    url: '/jobs/168922/senior-robotics-developer-specialist-aeolus-robotics?a=UEnd88k9WM0&so=p&pg=5&offset=0&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.706Z
     perks:
         -
             key: 'remote pr16'
@@ -1376,9 +1584,9 @@
         - machine-learning
 -
     title: 'Quality Engineer'
-    url: '/jobs/203005/quality-engineer-hazelcast?a=1653B0gIGxPO&so=p&pg=4&offset=12&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/203005/quality-engineer-hazelcast?a=1653B0gIGxPO&so=p&pg=5&offset=1&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.332Z
+    timestamp: 2018-12-04T17:13:07.707Z
     perks:
         -
             key: 'remote pr16'
@@ -1391,9 +1599,9 @@
         - automation
 -
     title: 'Drupal Developer (Remote)'
-    url: '/jobs/205394/drupal-developer-remote-x-team?a=16SJoz2GvjY4&so=p&pg=4&offset=13&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/205394/drupal-developer-remote-x-team?a=16SJoz2GvjY4&so=p&pg=5&offset=2&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.334Z
+    timestamp: 2018-12-04T17:13:07.708Z
     perks:
         -
             key: 'remote pr16'
@@ -1403,9 +1611,9 @@
         - php
 -
     title: 'Build and release Engineer JD - Full Time - Remote'
-    url: '/jobs/183850/build-and-release-engineer-jd-full-time-remote-cvedia-pte-ltd?a=ZELLCvR3ZIc&so=p&pg=4&offset=14&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/183850/build-and-release-engineer-jd-full-time-remote-cvedia-pte-ltd?a=ZELLCvR3ZIc&so=p&pg=5&offset=3&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.335Z
+    timestamp: 2018-12-04T17:13:07.710Z
     perks:
         -
             key: 'remote pr16'
@@ -1415,9 +1623,9 @@
         - writing
 -
     title: 'Healthcare Data Analyst/Scientist'
-    url: '/jobs/208459/healthcare-data-analyst-scientist-hugo-health?a=17UsFkAwXu1y&so=p&pg=4&offset=15&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208459/healthcare-data-analyst-scientist-hugo-health?a=17UsFkAwXu1y&so=p&pg=5&offset=4&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.336Z
+    timestamp: 2018-12-04T17:13:07.711Z
     perks:
         -
             key: 'remote pr16'
@@ -1430,9 +1638,9 @@
         - matplotlib
 -
     title: 'Elasticsearch - Java Engineer - Security'
-    url: '/jobs/202949/elasticsearch-java-engineer-security-elastic?a=163Tp2SzKZcA&so=p&pg=4&offset=16&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/202949/elasticsearch-java-engineer-security-elastic?a=163Tp2SzKZcA&so=p&pg=5&offset=5&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.337Z
+    timestamp: 2018-12-04T17:13:07.712Z
     perks:
         -
             key: 'salary pr16'
@@ -1448,9 +1656,9 @@
         - sha
 -
     title: 'Content Engineer (Content Modeling, Metadata, Markup,Topology,Schema,Taxonomy)'
-    url: '/jobs/194854/content-engineer-content-modeling-metadata-a?a=13lzFlx9ug24&so=p&pg=4&offset=17&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/194854/content-engineer-content-modeling-metadata-a?a=13lzFlx9ug24&so=p&pg=5&offset=6&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.338Z
+    timestamp: 2018-12-04T17:13:07.713Z
     perks:
         -
             key: 'remote pr16'
@@ -1463,9 +1671,9 @@
         - ontology
 -
     title: 'Senior Software Developers'
-    url: '/jobs/166118/senior-software-developers-avaaz-foundation?a=TI4pwyYfkOc&so=p&pg=4&offset=18&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/166118/senior-software-developers-avaaz-foundation?a=TI4pwyYfkOc&so=p&pg=5&offset=7&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.347Z
+    timestamp: 2018-12-04T17:13:07.722Z
     perks:
         -
             key: 'remote pr16'
@@ -1478,9 +1686,9 @@
         - python
 -
     title: 'DevOps Engineers'
-    url: '/jobs/166116/devops-engineers-avaaz-foundation?a=TI1PFvTuZDW&so=p&pg=4&offset=19&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/166116/devops-engineers-avaaz-foundation?a=TI1PFvTuZDW&so=p&pg=5&offset=8&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.349Z
+    timestamp: 2018-12-04T17:13:07.724Z
     perks:
         -
             key: 'remote pr16'
@@ -1492,9 +1700,9 @@
         - sysadmin
 -
     title: 'Privacy Engineer'
-    url: '/jobs/194195/privacy-engineer-wikimedia-foundation-inc?a=137S6UGqcM12&so=p&pg=4&offset=20&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/194195/privacy-engineer-wikimedia-foundation-inc?a=137S6UGqcM12&so=p&pg=5&offset=9&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.350Z
+    timestamp: 2018-12-04T17:13:07.725Z
     perks:
         -
             key: 'remote pr16'
@@ -1503,9 +1711,9 @@
         - security
 -
     title: 'Full-Stack Developer, WordPress'
-    url: '/jobs/198329/full-stack-developer-wordpress-sanborn?a=14vPuwfHap0s&so=p&pg=4&offset=21&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/198329/full-stack-developer-wordpress-sanborn?a=14vPuwfHap0s&so=p&pg=5&offset=10&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.351Z
+    timestamp: 2018-12-04T17:13:07.726Z
     perks:
         -
             key: 'salary pr16'
@@ -1520,24 +1728,10 @@
         - laravel
         - react
 -
-    title: 'Fullstack Developer - PHP/React (Eastern Europe)'
-    url: '/jobs/205692/fullstack-developer-php-react-eastern-europe-mobymax?a=16YVz3r5SbCw&so=p&pg=4&offset=23&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.352Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - php
-        - reactjs
-        - mysql
-        - javascript
--
     title: 'Node.js Developer (Remote)'
-    url: '/jobs/197763/nodejs-developer-remote-x-team?a=14k3Pnd1DNbq&so=p&pg=4&offset=24&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/197763/nodejs-developer-remote-x-team?a=14k3Pnd1DNbq&so=p&pg=5&offset=11&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.353Z
+    timestamp: 2018-12-04T17:13:07.727Z
     perks:
         -
             key: 'remote pr16'
@@ -1547,28 +1741,10 @@
         - javascript
         - express
 -
-    title: 'Senior Infrastructure Engineer (DevOps/SRE) f/m/x (100% Remote)'
-    url: '/jobs/208338/senior-infrastructure-engineer-devops-sre-f-m-x-jaumo-gmbh?a=17RWQ3wIptCw&so=p&pg=5&offset=-1&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.577Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: '€60k - 150k'
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - kubernetes
-        - devops
-        - docker
-        - puppet
-        - linux
--
     title: 'React Developer - Remote'
-    url: '/jobs/208165/react-developer-remote-toptal?a=17OlEyih5iHC&so=p&pg=5&offset=0&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208165/react-developer-remote-toptal?a=17OlEyih5iHC&so=p&pg=5&offset=12&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.590Z
+    timestamp: 2018-12-04T17:13:07.728Z
     perks:
         -
             key: 'remote pr16'
@@ -1581,9 +1757,9 @@
         - typescript
 -
     title: 'Softwareentwickler / Global IT Business Application Developer (m/w)'
-    url: '/jobs/208383/softwareentwickler-global-it-business-landis-plusgyr-gmbh?a=17SSGOHCyvJK&so=p&pg=5&offset=1&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208383/softwareentwickler-global-it-business-landis-plusgyr-gmbh?a=17SSGOHCyvJK&so=p&pg=5&offset=13&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.594Z
+    timestamp: 2018-12-04T17:13:07.729Z
     perks:
         -
             key: 'remote pr16'
@@ -1596,9 +1772,9 @@
         - jquery
 -
     title: 'Senior Golang Engineer'
-    url: '/jobs/208381/senior-golang-engineer-elastic?a=17SQ6XExOazu&so=p&pg=5&offset=2&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208381/senior-golang-engineer-elastic?a=17SQ6XExOazu&so=p&pg=5&offset=14&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.610Z
+    timestamp: 2018-12-04T17:13:07.730Z
     perks:
         -
             key: 'remote pr16'
@@ -1610,9 +1786,9 @@
         - distributed-system
 -
     title: 'Backend Engineer -- Ruby on Rails'
-    url: '/jobs/208377/backend-engineer-ruby-on-rails-fizzer?a=17SKXfyojueY&so=p&pg=5&offset=3&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208377/backend-engineer-ruby-on-rails-fizzer?a=17SKXfyojueY&so=p&pg=5&offset=15&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.630Z
+    timestamp: 2018-12-04T17:13:07.732Z
     perks:
         -
             key: 'salary pr16'
@@ -1627,9 +1803,9 @@
         - rspec
 -
     title: 'Build & Release Engineer - Elasticsearch'
-    url: '/jobs/205546/build-release-engineer-elasticsearch-elastic?a=16VTlAOvjgxG&so=p&pg=5&offset=4&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/205546/build-release-engineer-elasticsearch-elastic?a=16VTlAOvjgxG&so=p&pg=5&offset=16&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.634Z
+    timestamp: 2018-12-04T17:13:07.733Z
     perks:
         -
             key: 'remote pr16'
@@ -1641,10 +1817,28 @@
         - gradle
         - jenkins
 -
-    title: 'Software Engineer - Platform'
-    url: '/jobs/208295/software-engineer-platform-alphasights?a=17R3fawfFuso&so=p&pg=5&offset=6&total=169&l=Remote&u=Km&d=20'
+    title: 'Senior Infrastructure Engineer (DevOps/SRE) f/m/x (100% Remote)'
+    url: '/jobs/208338/senior-infrastructure-engineer-devops-sre-f-m-x-jaumo-gmbh?a=17RWQ3wIptAs&so=p&pg=5&offset=17&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.635Z
+    timestamp: 2018-12-04T17:13:07.742Z
+    perks:
+        -
+            key: 'salary pr16'
+            value: '€60k - 150k'
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - kubernetes
+        - devops
+        - docker
+        - puppet
+        - linux
+-
+    title: 'Software Engineer - Platform'
+    url: '/jobs/208295/software-engineer-platform-alphasights?a=17R3fawfFuso&so=p&pg=5&offset=18&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.743Z
     perks:
         -
             key: 'remote pr16'
@@ -1655,9 +1849,9 @@
         - web-services
 -
     title: 'Senior Machine Learning Engineer'
-    url: '/jobs/208285/senior-machine-learning-engineer-innovation-research-labs?a=17QQvSIbBqHC&so=p&pg=5&offset=7&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208285/senior-machine-learning-engineer-innovation-research-labs?a=17QQvSIbBqHC&so=p&pg=5&offset=19&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.637Z
+    timestamp: 2018-12-04T17:13:07.744Z
     perks:
         -
             key: 'salary pr16'
@@ -1679,9 +1873,9 @@
         - information-retrieval
 -
     title: 'Platform Engineer'
-    url: '/jobs/171886/platform-engineer-articulate-inc?a=VE0hbFNRRYs&so=p&pg=5&offset=8&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/171886/platform-engineer-articulate-inc?a=VE0hbFNRRYs&so=p&pg=5&offset=20&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.649Z
+    timestamp: 2018-12-04T17:13:07.746Z
     perks:
         -
             key: 'remote pr16'
@@ -1694,9 +1888,9 @@
         - kubernetes
 -
     title: 'Laravel and VueJS development team leader'
-    url: '/jobs/205439/laravel-and-vuejs-development-team-leader-curotec?a=16TFpjEUk0bS&so=p&pg=5&offset=9&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/205439/laravel-and-vuejs-development-team-leader-curotec?a=16TFpjEUk0bS&so=p&pg=5&offset=21&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.652Z
+    timestamp: 2018-12-04T17:13:07.747Z
     perks:
         -
             key: 'remote pr16'
@@ -1709,9 +1903,9 @@
         - css3
 -
     title: 'Sr Ruby on Rails Engineer'
-    url: '/jobs/208255/sr-ruby-on-rails-engineer-whitespectre?a=17QdG3wIIF9e&so=p&pg=5&offset=10&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208255/sr-ruby-on-rails-engineer-whitespectre?a=17QdG3wIIF9e&so=p&pg=5&offset=22&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.654Z
+    timestamp: 2018-12-04T17:13:07.748Z
     perks:
         -
             key: 'remote pr16'
@@ -1722,9 +1916,9 @@
         - ruby-on-rails
 -
     title: 'Lead front-end engineer'
-    url: '/jobs/208250/lead-front-end-engineer-sterblue?a=17Q7epU1QOeA&so=p&pg=5&offset=11&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208250/lead-front-end-engineer-sterblue?a=17Q7epU1QOeA&so=p&pg=5&offset=23&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.687Z
+    timestamp: 2018-12-04T17:13:07.749Z
     perks:
         -
             key: 'remote pr16'
@@ -1736,128 +1930,10 @@
         - node.js
         - graphql
 -
-    title: 'UI Tech Lead - Kibana Elasticsearch'
-    url: '/jobs/205401/ui-tech-lead-kibana-elasticsearch-elastic?a=16SSq3Is7w2Y&so=p&pg=5&offset=12&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.689Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - elasticsearch
-        - javascript
-        - reactjs
-        - node.js
-        - kibana
--
-    title: 'Softwareentwickler Ruby/Rails (m/w/d), Remote und/oder Office'
-    url: '/jobs/199407/softwareentwickler-ruby-rails-m-w-d-remote-und-easybill-gmbh?a=14SfcHZY2pby&so=p&pg=5&offset=13&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.692Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: '€42k - 72k'
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - ruby
-        - ruby-on-rails
--
-    title: 'Senior iOS Engineer'
-    url: '/jobs/208169/senior-ios-engineer-brave-software?a=17OqYfPKfD6E&so=p&pg=5&offset=14&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.694Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - swift
-        - ios
-        - objective-c
-        - xcode
-        - javascript
--
-    title: '(Senior) Product Manager, Swiftype'
-    url: '/jobs/205298/senior-product-manager-swiftype-elastic?a=16QJDuF0CW1G&so=p&pg=5&offset=15&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.695Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - javascript
-        - html
-        - css
-        - elasticsearch
--
-    title: 'Seasoned DevOps/ SRE'
-    url: '/jobs/208130/seasoned-devops-sre-platformsh?a=17NCx4Vr0kj6&so=p&pg=5&offset=16&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.697Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - python
-        - devops
-        - amazon-web-services
-        - magento
-        - linux
--
-    title: 'Seasoned Technical Writer (native English speaker)'
-    url: '/jobs/208123/seasoned-technical-writer-native-english-speaker-platformsh?a=17NtvAfFo8ec&so=p&pg=5&offset=17&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.698Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - documentation
-        - git
-        - markdown
-        - html
-        - devops
--
-    title: 'NoSQL Datenbank Entwickler für Start up im Bereich Online-Lernen'
-    url: '/jobs/208107/nosql-datenbank-entwickler-f%C3%BCr-start-up-im-karriere-tutor-gmbh?a=17N8SJR3poU8&so=p&pg=5&offset=18&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.707Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - javascript
-        - php
-        - docker
-        - kubernetes
-        - google-cloud-platform
--
-    title: 'Technology Risk Assessor'
-    url: '/jobs/208106/technology-risk-assessor-direct-line-group?a=17N7AOkw2ek0&so=p&pg=5&offset=19&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.709Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-        -
-            key: relocation
-            value: 'Paid relocation'
-    tags:
-        - sysadmin
--
     title: 'Sr. Data Architect'
-    url: '/jobs/205210/sr-data-architect-philip-morris-international?a=16OUlPUXpyOQ&so=p&pg=5&offset=20&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/205210/sr-data-architect-philip-morris-international?a=16OUlPUXpyQU&so=p&pg=6&offset=-1&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.710Z
+    timestamp: 2018-12-04T17:13:07.429Z
     perks:
         -
             key: 'remote pr16'
@@ -1871,10 +1947,83 @@
         - ssis
         - sysadmin
 -
-    title: 'Senior Back-End Java Developer'
-    url: '/jobs/208074/senior-back-end-java-developer-gitprime?a=17Msl7xi4LFS&so=p&pg=5&offset=21&total=169&l=Remote&u=Km&d=20'
+    title: '(Senior) Product Manager, Swiftype'
+    url: '/jobs/205298/senior-product-manager-swiftype-elastic?a=16QJDuF0CW1G&so=p&pg=6&offset=0&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.712Z
+    timestamp: 2018-12-04T17:13:07.430Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - javascript
+        - html
+        - css
+        - elasticsearch
+-
+    title: 'Seasoned DevOps/ SRE'
+    url: '/jobs/208130/seasoned-devops-sre-platformsh?a=17NCx4Vr0kj6&so=p&pg=6&offset=1&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.432Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - python
+        - devops
+        - amazon-web-services
+        - magento
+        - linux
+-
+    title: 'Seasoned Technical Writer (native English speaker)'
+    url: '/jobs/208123/seasoned-technical-writer-native-english-speaker-platformsh?a=17NtvAfFo8ec&so=p&pg=6&offset=2&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.433Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - documentation
+        - git
+        - markdown
+        - html
+        - devops
+-
+    title: 'NoSQL Datenbank Entwickler für Start up im Bereich Online-Lernen'
+    url: '/jobs/208107/nosql-datenbank-entwickler-f%C3%BCr-start-up-im-karriere-tutor-gmbh?a=17N8SJR3poU8&so=p&pg=6&offset=3&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.445Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - javascript
+        - php
+        - docker
+        - kubernetes
+        - google-cloud-platform
+-
+    title: 'Technology Risk Assessor'
+    url: '/jobs/208106/technology-risk-assessor-direct-line-group?a=17N7AOkw2ek0&so=p&pg=6&offset=4&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.446Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+        -
+            key: relocation
+            value: 'Paid relocation'
+    tags:
+        - sysadmin
+-
+    title: 'Senior Back-End Java Developer'
+    url: '/jobs/208074/senior-back-end-java-developer-gitprime?a=17Msl7xi4LFS&so=p&pg=6&offset=6&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.448Z
     perks:
         -
             key: 'remote pr16'
@@ -1885,9 +2034,9 @@
         - spring
 -
     title: 'Customer Engagement Engineer'
-    url: '/jobs/208073/customer-engagement-engineer-gitprime?a=17Mr3c0KHB5K&so=p&pg=5&offset=22&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208073/customer-engagement-engineer-gitprime?a=17Mr3c0KHB5K&so=p&pg=6&offset=7&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.714Z
+    timestamp: 2018-12-04T17:13:07.462Z
     perks:
         -
             key: 'remote pr16'
@@ -1897,9 +2046,9 @@
         - docker
 -
     title: 'Backend Engineer - Passenger Growth (Golang)'
-    url: '/jobs/208041/backend-engineer-passenger-growth-golang-heetch?a=17LLNvdwK8rC&so=p&pg=5&offset=23&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/208041/backend-engineer-passenger-growth-golang-heetch?a=17LLNvdwK8rC&so=p&pg=6&offset=8&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.715Z
+    timestamp: 2018-12-04T17:13:07.463Z
     perks:
         -
             key: 'remote pr16'
@@ -1911,9 +2060,9 @@
         - event-driven
 -
     title: 'Garmin IQ Developer (m/f)'
-    url: '/jobs/207781/garmin-iq-developer-m-f-komoot?a=17GmCgLzzKW4&so=p&pg=5&offset=24&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/207781/garmin-iq-developer-m-f-komoot?a=17GmCgLzzKW4&so=p&pg=6&offset=9&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.717Z
+    timestamp: 2018-12-04T17:13:07.465Z
     perks:
         -
             key: 'remote pr16'
@@ -1925,25 +2074,10 @@
         - wearables
         - garmin
 -
-    title: 'Senior Solidity/Full Stack Developer  (Blockchain/Crypto)'
-    url: '/jobs/199627/senior-solidity-full-stack-developer-blockchain-polymath?a=14WOYOTHVBuw&so=p&pg=6&offset=-1&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.056Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - node.js
-        - javascript
-        - redux
-        - reactjs
-        - ethereum
--
     title: 'React Native Developer (Remote)'
-    url: '/jobs/200538/react-native-developer-remote-x-team?a=15fLf4yLIsfu&so=p&pg=6&offset=0&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/200538/react-native-developer-remote-x-team?a=15fLf4yLIsfu&so=p&pg=6&offset=10&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.057Z
+    timestamp: 2018-12-04T17:13:07.466Z
     perks:
         -
             key: 'remote pr16'
@@ -1956,9 +2090,9 @@
         - android
 -
     title: 'Search- Integrations Engineer'
-    url: '/jobs/207972/search-integrations-engineer-elastic?a=17KkQu0nXmeI&so=p&pg=6&offset=1&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/207972/search-integrations-engineer-elastic?a=17KkQu0nXmeI&so=p&pg=6&offset=11&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.067Z
+    timestamp: 2018-12-04T17:13:07.468Z
     perks:
         -
             key: 'remote pr16'
@@ -1969,9 +2103,9 @@
         - reactjs
 -
     title: 'Senior Full-Stack Developer for Blockchain Company, involves Ruby, JS, TS'
-    url: '/jobs/199855/senior-full-stack-developer-for-blockchain-tradeio?a=151yKn77sSfm&so=p&pg=6&offset=2&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/199855/senior-full-stack-developer-for-blockchain-tradeio?a=151yKn77sSfm&so=p&pg=6&offset=12&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.069Z
+    timestamp: 2018-12-04T17:13:07.470Z
     perks:
         -
             key: 'salary pr16'
@@ -1987,9 +2121,9 @@
         - architecture
 -
     title: '[Senior] Haskell Software Developer Genius for Network Security Solutions'
-    url: '/jobs/173703/senior-haskell-software-developer-genius-for-secucloud?a=WfMG2fRV0MU&so=p&pg=6&offset=3&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/173703/senior-haskell-software-developer-genius-for-secucloud?a=WfMG2fRV0MU&so=p&pg=6&offset=13&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.072Z
+    timestamp: 2018-12-04T17:13:07.472Z
     perks:
         -
             key: 'salary pr16'
@@ -2011,9 +2145,9 @@
         - cluster-computing
 -
     title: 'Service Delivery Manager Europe'
-    url: '/jobs/202264/service-delivery-manager-europe-open-xchange-gmbh?a=15PEkunQL42c&so=p&pg=6&offset=4&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/202264/service-delivery-manager-europe-open-xchange-gmbh?a=15PEkunQL42c&so=p&pg=6&offset=14&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.074Z
+    timestamp: 2018-12-04T17:13:07.473Z
     perks:
         -
             key: 'remote pr16'
@@ -2025,9 +2159,9 @@
         - mysql
 -
     title: 'Front-end Engineer - Remote, US-based'
-    url: '/jobs/207868/front-end-engineer-remote-us-based-knockcom?a=17IaLZqp5BDi&so=p&pg=6&offset=5&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/207868/front-end-engineer-remote-us-based-knockcom?a=17IaLZqp5BDi&so=p&pg=6&offset=15&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.087Z
+    timestamp: 2018-12-04T17:13:07.483Z
     perks:
         -
             key: 'salary pr16'
@@ -2043,9 +2177,9 @@
         - react-redux
 -
     title: 'Senior Data Engineer - Remote, US-based'
-    url: '/jobs/207867/senior-data-engineer-remote-us-based-knockcom?a=17I9u3TRIr3a&so=p&pg=6&offset=6&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/207867/senior-data-engineer-remote-us-based-knockcom?a=17I9u3TRIr3a&so=p&pg=6&offset=16&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.089Z
+    timestamp: 2018-12-04T17:13:07.484Z
     perks:
         -
             key: 'salary pr16'
@@ -2060,9 +2194,9 @@
         - apache-spark-sql
 -
     title: 'Mid-level Front-end Developer'
-    url: '/jobs/194294/mid-level-front-end-developer-the-hero-company?a=139VJLDIcFHO&so=p&pg=6&offset=7&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/194294/mid-level-front-end-developer-the-hero-company?a=139VJLDIcFHO&so=p&pg=6&offset=17&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.090Z
+    timestamp: 2018-12-04T17:13:07.486Z
     perks:
         -
             key: 'remote pr16'
@@ -2075,9 +2209,9 @@
         - mysql
 -
     title: 'Technical Solutions Engineer'
-    url: '/jobs/165464/technical-solutions-engineer-scrapinghub?a=TutiJkVPHHO&so=p&pg=6&offset=8&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/165464/technical-solutions-engineer-scrapinghub?a=TutiJkVPHHO&so=p&pg=6&offset=18&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.092Z
+    timestamp: 2018-12-04T17:13:07.487Z
     perks:
         -
             key: 'remote pr16'
@@ -2090,9 +2224,9 @@
         - sysadmin
 -
     title: 'Fullstack ReactJS/NodeJS developer'
-    url: '/jobs/200693/fullstack-reactjs-nodejs-developer-code-careers?a=15iZ3SUcDUzu&so=p&pg=6&offset=9&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/200693/fullstack-reactjs-nodejs-developer-code-careers?a=15iZ3SUcDUzu&so=p&pg=6&offset=19&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.096Z
+    timestamp: 2018-12-04T17:13:07.488Z
     perks:
         -
             key: 'salary pr16'
@@ -2111,9 +2245,9 @@
         - babeljs
 -
     title: 'Senior Software Engineer, Users Directory'
-    url: '/jobs/194172/senior-software-engineer-users-directory-auth0?a=137oszC2BQC4&so=p&pg=6&offset=10&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/194172/senior-software-engineer-users-directory-auth0?a=137oszC2BQC4&so=p&pg=6&offset=20&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.098Z
+    timestamp: 2018-12-04T17:13:07.491Z
     perks:
         -
             key: 'remote pr16'
@@ -2126,9 +2260,9 @@
         - data-modeling
 -
     title: 'Platform Engineer for Containers'
-    url: '/jobs/160144/platform-engineer-for-containers-giant-swarm-gmbh?a=RHQYJlfDDBm&so=p&pg=6&offset=11&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/160144/platform-engineer-for-containers-giant-swarm-gmbh?a=RHQYJlfDDBm&so=p&pg=6&offset=21&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.108Z
+    timestamp: 2018-12-04T17:13:07.493Z
     perks:
         -
             key: 'salary pr16'
@@ -2146,10 +2280,25 @@
         - go
         - kubernetes
 -
-    title: 'Data Engineer'
-    url: '/jobs/201269/data-engineer-automattic?a=15uXCjcfUedO&so=p&pg=6&offset=13&total=169&l=Remote&u=Km&d=20'
+    title: 'Senior Solidity/Full Stack Developer  (Blockchain/Crypto)'
+    url: '/jobs/199627/senior-solidity-full-stack-developer-blockchain-polymath?a=14WOYOTHVBss&so=p&pg=6&offset=22&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.109Z
+    timestamp: 2018-12-04T17:13:07.502Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - node.js
+        - javascript
+        - redux
+        - reactjs
+        - ethereum
+-
+    title: 'Data Engineer'
+    url: '/jobs/201269/data-engineer-automattic?a=15uXCjcfUedO&so=p&pg=6&offset=23&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.503Z
     perks:
         -
             key: 'remote pr16'
@@ -2162,9 +2311,9 @@
         - apache-spark
 -
     title: 'Engineer, Services'
-    url: '/jobs/196841/engineer-services-wikimedia-foundation-inc?a=140TdVkJ4pUs&so=p&pg=6&offset=14&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/196841/engineer-services-wikimedia-foundation-inc?a=140TdVkJ4pUs&so=p&pg=6&offset=24&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.111Z
+    timestamp: 2018-12-04T17:13:07.505Z
     perks:
         -
             key: 'remote pr16'
@@ -2174,10 +2323,25 @@
         - web-services
         - security
 -
-    title: 'Full Stack Engineer, Engineering Tools'
-    url: '/jobs/207817/full-stack-engineer-engineering-tools-auth0?a=17H71FEX1TUI&so=p&pg=6&offset=15&total=169&l=Remote&u=Km&d=20'
+    title: 'Senior React Engineer - 100% Remote - North / South America & Europe'
+    url: '/jobs/146458/senior-react-engineer-100-remote-north-citrusbyte?a=N7hIAdAzew0&so=p&pg=7&offset=-1&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.112Z
+    timestamp: 2018-12-04T17:13:07.343Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - javascript
+        - reactjs
+        - ecmascript-6
+        - babeljs
+        - webpack
+-
+    title: 'Full Stack Engineer, Engineering Tools'
+    url: '/jobs/207817/full-stack-engineer-engineering-tools-auth0?a=17H71FEX1TUI&so=p&pg=7&offset=0&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.345Z
     perks:
         -
             key: 'remote pr16'
@@ -2188,9 +2352,9 @@
         - user-experience
 -
     title: 'Full Stack Javascript Developer (React, Node on AWS)'
-    url: '/jobs/207700/full-stack-javascript-developer-react-node-on-flexhire?a=17EGc7fYiVJC&so=p&pg=6&offset=16&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/207700/full-stack-javascript-developer-react-node-on-flexhire?a=17EGc7fYiVJC&so=p&pg=7&offset=1&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.113Z
+    timestamp: 2018-12-04T17:13:07.346Z
     perks:
         -
             key: 'salary pr16'
@@ -2206,9 +2370,9 @@
         - amazon-web-services
 -
     title: 'Service Asset & Configuration Management Analyst'
-    url: '/jobs/207774/service-asset-configuration-management-analyst-direct-line-group?a=17GdAM5NXyRa&so=p&pg=6&offset=17&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/207774/service-asset-configuration-management-analyst-direct-line-group?a=17GdAM5NXyRa&so=p&pg=7&offset=2&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.115Z
+    timestamp: 2018-12-04T17:13:07.347Z
     perks:
         -
             key: 'remote pr16'
@@ -2220,9 +2384,9 @@
         - assetmanagement
 -
     title: 'WordPress Entwickler für Start up im Bereich Online-Lernen'
-    url: '/jobs/207734/wordpress-entwickler-f%C3%BCr-start-up-im-bereich-karriere-tutor-gmbh?a=17Fo1F6h0Jy0&so=p&pg=6&offset=18&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/207734/wordpress-entwickler-f%C3%BCr-start-up-im-bereich-karriere-tutor-gmbh?a=17Fo1F6h0Jy0&so=p&pg=7&offset=3&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.116Z
+    timestamp: 2018-12-04T17:13:07.349Z
     perks:
         -
             key: 'remote pr16'
@@ -2233,9 +2397,9 @@
         - javascript
 -
     title: 'Technical Evangelist, China'
-    url: '/jobs/204845/technical-evangelist-china-elastic?a=16HjEbVakC3e&so=p&pg=6&offset=19&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/204845/technical-evangelist-china-elastic?a=16HjEbVakC3e&so=p&pg=7&offset=4&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.117Z
+    timestamp: 2018-12-04T17:13:07.350Z
     perks:
         -
             key: 'salary pr16'
@@ -2250,9 +2414,9 @@
         - elastic
 -
     title: 'Senior Front-End Engineer'
-    url: '/jobs/207721/senior-front-end-engineer-thanx?a=17F7gBhh9vYk&so=p&pg=6&offset=20&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/207721/senior-front-end-engineer-thanx?a=17F7gBhh9vYk&so=p&pg=7&offset=5&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.127Z
+    timestamp: 2018-12-04T17:13:07.351Z
     perks:
         -
             key: 'remote pr16'
@@ -2266,9 +2430,9 @@
         - vue.js
 -
     title: 'Senior Backend Engineer'
-    url: '/jobs/207709/senior-backend-engineer-liveschool-inc?a=17ERNsYOFsYM&so=p&pg=6&offset=21&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/207709/senior-backend-engineer-liveschool-inc?a=17ERNsYOFsYM&so=p&pg=7&offset=6&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.130Z
+    timestamp: 2018-12-04T17:13:07.353Z
     perks:
         -
             key: 'salary pr16'
@@ -2284,9 +2448,9 @@
         - python
 -
     title: 'Azure Site Reliability Engineer (US/ Pacific Time Zone)'
-    url: '/jobs/207695/azure-site-reliability-engineer-us-pacific-time-stack-overflow?a=17EzKtDhr4OY&so=p&pg=6&offset=22&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/207695/azure-site-reliability-engineer-us-pacific-time-stack-overflow?a=17EzKtDhr4OY&so=p&pg=7&offset=7&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.131Z
+    timestamp: 2018-12-04T17:13:07.362Z
     perks:
         -
             key: 'salary pr16'
@@ -2303,9 +2467,9 @@
         - sysadmin
 -
     title: 'Application Security Engineer'
-    url: '/jobs/204787/application-security-engineer-zapier?a=16G6SntWEIfK&so=p&pg=6&offset=23&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/204787/application-security-engineer-zapier?a=16G6SntWEIfK&so=p&pg=7&offset=8&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.133Z
+    timestamp: 2018-12-04T17:13:07.363Z
     perks:
         -
             key: 'salary pr16'
@@ -2321,9 +2485,9 @@
         - django
 -
     title: 'Bloc Mentor (Remote)'
-    url: '/jobs/196238/bloc-mentor-remote-thinkful-inc?a=13OlRrS8IuwE&so=p&pg=6&offset=24&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/196238/bloc-mentor-remote-thinkful-inc?a=13OlRrS8IuwE&so=p&pg=7&offset=9&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.134Z
+    timestamp: 2018-12-04T17:13:07.365Z
     perks:
         -
             key: 'remote pr16'
@@ -2335,23 +2499,10 @@
         - user-experience
         - angularjs
 -
-    title: 'Experienced Backend Engineer - Java/React'
-    url: '/jobs/207440/experienced-backend-engineer-java-react-citrusbyte?a=17zhaSfkOckE&so=p&pg=7&offset=-1&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.977Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - java
-        - reactjs
-        - 'c#'
--
     title: 'Technical Coach (Design)'
-    url: '/jobs/196563/technical-coach-design-thinkful-inc?a=13V6PZr5aXUA&so=p&pg=7&offset=0&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/196563/technical-coach-design-thinkful-inc?a=13V6PZr5aXUA&so=p&pg=7&offset=10&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.987Z
+    timestamp: 2018-12-04T17:13:07.367Z
     perks:
         -
             key: 'remote pr16'
@@ -2364,9 +2515,9 @@
         - css
 -
     title: 'Cloud Engineer- Docker Infastructure'
-    url: '/jobs/196581/cloud-engineer-docker-infastructure-elastic?a=13Vu2GSLU2oU&so=p&pg=7&offset=1&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/196581/cloud-engineer-docker-infastructure-elastic?a=13Vu2GSLU2oU&so=p&pg=7&offset=11&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.988Z
+    timestamp: 2018-12-04T17:13:07.369Z
     perks:
         -
             key: 'salary pr16'
@@ -2382,9 +2533,9 @@
         - cloud
 -
     title: 'Senior Software Engineer/Team Lead (U.S. residents only - Remote position)'
-    url: '/jobs/207360/senior-software-engineer-team-lead-us-staywell?a=17xBSEOXeTBK&so=p&pg=7&offset=2&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/207360/senior-software-engineer-team-lead-us-staywell?a=17xBSEOXeTBK&so=p&pg=7&offset=12&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.990Z
+    timestamp: 2018-12-04T17:13:07.370Z
     perks:
         -
             key: 'remote pr16'
@@ -2396,25 +2547,10 @@
         - node.js
         - amazon-web-services
 -
-    title: 'Senior Web Engineer'
-    url: '/jobs/207477/senior-web-engineer-homer?a=17A2ScFfDvRm&so=p&pg=7&offset=3&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.991Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - reactjs
-        - javascript
-        - node.js
-        - agile
-        - android
--
     title: 'Software Engineer (Product Development)'
-    url: '/jobs/161873/software-engineer-product-development-britecore?a=ShO5VbgtpcY&so=p&pg=7&offset=4&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/161873/software-engineer-product-development-britecore?a=ShO5VbgtpcY&so=p&pg=7&offset=13&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.992Z
+    timestamp: 2018-12-04T17:13:07.372Z
     perks:
         -
             key: 'salary pr16'
@@ -2429,10 +2565,23 @@
         - javascript
         - amazon-web-services
 -
-    title: 'Identity Architecture & Content Padawan'
-    url: '/jobs/199230/identity-architecture-content-padawan-auth0?a=14Oz1u6GTc2I&so=p&pg=7&offset=6&total=169&l=Remote&u=Km&d=20'
+    title: 'Experienced Backend Engineer - Java/React'
+    url: '/jobs/207440/experienced-backend-engineer-java-react-citrusbyte?a=17zhaSfkOciA&so=p&pg=7&offset=14&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.994Z
+    timestamp: 2018-12-04T17:13:07.373Z
+    perks:
+        -
+            key: 'remote pr16'
+            value: Remote
+    tags:
+        - java
+        - reactjs
+        - 'c#'
+-
+    title: 'Identity Architecture & Content Padawan'
+    url: '/jobs/199230/identity-architecture-content-padawan-auth0?a=14Oz1u6GTc2I&so=p&pg=7&offset=15&total=172&l=Remote&u=Km&d=20'
+    company: ""
+    timestamp: 2018-12-04T17:13:07.383Z
     perks:
         -
             key: 'remote pr16'
@@ -2445,9 +2594,9 @@
         - mobile
 -
     title: 'Android Developer'
-    url: '/jobs/207352/android-developer-mobiquity?a=17xrzeCEfwWI&so=p&pg=7&offset=7&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/207352/android-developer-mobiquity?a=17xrzeCEfwWI&so=p&pg=7&offset=16&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.995Z
+    timestamp: 2018-12-04T17:13:07.385Z
     perks:
         -
             key: 'remote pr16'
@@ -2460,9 +2609,9 @@
         - sdk
 -
     title: 'Node.js Back-End Developer'
-    url: '/jobs/207341/nodejs-back-end-developer-xara-group-ltd?a=17xdo1QJ8Exi&so=p&pg=7&offset=8&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/207341/nodejs-back-end-developer-xara-group-ltd?a=17xdo1QJ8Exi&so=p&pg=7&offset=17&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:06.997Z
+    timestamp: 2018-12-04T17:13:07.386Z
     perks:
         -
             key: 'salary pr16'
@@ -2477,25 +2626,10 @@
         - linux
         - docker
 -
-    title: 'Senior React Engineer - 100% Remote - North / South America & Europe'
-    url: '/jobs/146458/senior-react-engineer-100-remote-north-citrusbyte?a=N7hIAdAzetW&so=p&pg=7&offset=9&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:06.998Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - javascript
-        - reactjs
-        - ecmascript-6
-        - babeljs
-        - webpack
--
     title: 'Talented Full Stack Software Engineer'
-    url: '/jobs/207024/talented-full-stack-software-engineer-fexa?a=17qCIUu5FxOo&so=p&pg=7&offset=10&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/207024/talented-full-stack-software-engineer-fexa?a=17qCIUu5FxOo&so=p&pg=7&offset=19&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.008Z
+    timestamp: 2018-12-04T17:13:07.388Z
     perks:
         -
             key: 'salary pr16'
@@ -2511,9 +2645,9 @@
         - scrum
 -
     title: 'Python Developer - Web Crawling'
-    url: '/jobs/183484/python-developer-web-crawling-scrapinghub?a=Zx9W2qQhwqY&so=p&pg=7&offset=11&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/183484/python-developer-web-crawling-scrapinghub?a=Zx9W2qQhwqY&so=p&pg=7&offset=20&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.011Z
+    timestamp: 2018-12-04T17:13:07.389Z
     perks:
         -
             key: 'remote pr16'
@@ -2526,9 +2660,9 @@
         - data-science
 -
     title: 'Blockchain Engineer'
-    url: '/jobs/204572/blockchain-engineer-taxtoken?a=16BDHTEdj0Y0&so=p&pg=7&offset=12&total=169&l=Remote&u=Km&d=20'
+    url: '/jobs/204572/blockchain-engineer-taxtoken?a=16BDHTEdj0Y0&so=p&pg=7&offset=21&total=172&l=Remote&u=Km&d=20'
     company: ""
-    timestamp: 2018-12-01T17:13:07.012Z
+    timestamp: 2018-12-04T17:13:07.402Z
     perks:
         -
             key: 'remote pr16'
@@ -2539,102 +2673,3 @@
         - springboot
         - activemq
         - mongodb
--
-    title: 'Remote Website/UI Designer & Front-End Developer, Work from home'
-    url: '/jobs/201461/remote-website-ui-designer-front-end-developer-codeline?a=15yX8rXBF06A&so=p&pg=7&offset=13&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.013Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: '$33k - 42k'
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - css3
-        - html5
-        - javascript
-        - photoshop
-        - mockups
--
-    title: 'Information Security Analyst'
-    url: '/jobs/194196/information-security-analyst-wikimedia-foundation-inc?a=137ToQcXzWBa&so=p&pg=7&offset=14&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.015Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - security
-        - threat-model
--
-    title: 'Cybersecurity Software Engineer'
-    url: '/jobs/196323/cybersecurity-software-engineer-cylera?a=13Q7rjtTu03C&so=p&pg=7&offset=15&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.016Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: Equity
-        -
-            key: 'remote pr16'
-            value: Remote
-        -
-            key: 'visa pr16'
-            value: 'Visa sponsor'
-        -
-            key: relocation
-            value: 'Paid relocation'
-    tags:
-        - c
-        - redis
-        - python
-        - kubernetes
-        - apache-kafka
--
-    title: 'Data Analyst (m/f)'
-    url: '/jobs/201317/data-analyst-m-f-komoot?a=15vXuQo5Qqc0&so=p&pg=7&offset=16&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.018Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - analytics
-        - pandas
-        - data-analysis
--
-    title: 'Frontend Developer - Vue.js, React, Angular... (Remote)'
-    url: '/jobs/199987/frontend-developer-vuejs-react-angular-x-team?a=154iUQoaNpao&so=p&pg=7&offset=17&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.027Z
-    perks:
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - javascript
-        - vue.js
-        - reactjs
-        - angular
--
-    title: 'Remote Senior Mobile Engineer, React Native (iOS/Android)'
-    url: '/jobs/207127/remote-senior-mobile-engineer-react-native-ios-process-street?a=17sLvtxxa7PG&so=p&pg=7&offset=18&total=169&l=Remote&u=Km&d=20'
-    company: ""
-    timestamp: 2018-12-01T17:13:07.029Z
-    perks:
-        -
-            key: 'salary pr16'
-            value: "$90k - 120k\r\n\r\n                         | \r\nEquity"
-        -
-            key: 'remote pr16'
-            value: Remote
-    tags:
-        - react-native
-        - android
-        - ios
-        - javascript
-        - react
